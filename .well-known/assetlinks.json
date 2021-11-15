@@ -1,0 +1,62 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.dmm.app.vplayer.stg.debug",
+            "sha256_cert_fingerprints": [
+                "45:7B:76:AC:D2:F4:E2:BD:22:F3:A9:60:4C:D2:EC:AD:AC:6C:F4:91:6B:EA:72:93:DD:FB:9D:AD:B7:C0:68:1E"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.dmm.app.vplayer.stg.demo",
+            "sha256_cert_fingerprints": [
+                "88:4B:F6:2D:06:91:04:D2:BD:F7:DB:53:07:F5:CE:22:31:02:87:BA:EA:5B:AA:F1:AE:20:58:DD:3C:4E:02:33"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.dmm.app.vplayer.stg",
+            "sha256_cert_fingerprints": [
+                "8C:A5:64:10:05:86:23:D7:9C:93:50:9C:C9:30:87:F4:BB:84:26:E1:E7:4F:03:CC:DA:89:20:20:A7:1F:2B:C2"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.dmm.app.vplayer",
+            "sha256_cert_fingerprints": [
+                "8C:A5:64:10:05:86:23:D7:9C:93:50:9C:C9:30:87:F4:BB:84:26:E1:E7:4F:03:CC:DA:89:20:20:A7:1F:2B:C2"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.dmm.app.movieplayer.stg.debug",
+            "sha256_cert_fingerprints": [
+                "45:7B:76:AC:D2:F4:E2:BD:22:F3:A9:60:4C:D2:EC:AD:AC:6C:F4:91:6B:EA:72:93:DD:FB:9D:AD:B7:C0:68:1E"
+            ]
+        }
+    }
+]
